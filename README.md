@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The world is an open source!
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sitiaro &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sitiaro&theme=radical)
