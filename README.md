@@ -30,3 +30,15 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 ```
 
 #### ⏳ Year Progress { ████████████████_______________ } 50.17 % as of ⏰ 14/06/2022. ####
+<br>
+<br>
+<p><img align='left' src='https://github.com/Sitiaro/Sitiaro/blob/main/tenor.gif' width='200' height = '200' /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align='left'><b>PANIC !!!</b></p>
