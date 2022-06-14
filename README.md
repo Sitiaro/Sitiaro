@@ -1,9 +1,9 @@
 ### Greetings, fellow Github user!
 
-- 🔭 I’m currently working on **Artificial Intelligence, Cyber Security, and Data Science.
-- 🌱 I’m currently learning **𝙳𝚎𝚟Sec𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
-- 👯 I’m looking to collaborate on **anything related Artificial Intelligence, Cyber Security, or Data Science.
-- ⚡ Fun fact: **The world is an open source!
+- 🔭 I’m currently working on **Artificial Intelligence, Cyber Security, and Data Science.**
+- 🌱 I’m currently learning **𝙳𝚎𝚟Sec𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
+- 👯 I’m looking to collaborate on **anything related Artificial Intelligence, Cyber Security, or Data Science.**
+- ⚡ Fun fact: **The world is an open source!**
 
 ### My Github Stats
 
