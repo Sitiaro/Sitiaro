@@ -11,6 +11,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SITIARO&show_icons=true&theme=radical)
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats.*
+
 ### I'm a night 🦉
 ```
 🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
